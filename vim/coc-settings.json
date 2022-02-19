@@ -1,0 +1,19 @@
+{
+  "coc.preferences.hoverTarget": "float",
+  "signature.target": "echo",
+  "suggest.echodocSupport": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "typescript",
+    "typescriptreact",
+    "javascript",
+    "json",
+    "javascriptreact"
+  ],
+  "tsserver.log": "verbose",
+  "tsserver.trace.server": "verbose",
+  "coc.preferences.useQuickfixForLocations": true,
+  "prettier.disableSuccessMessage": false,
+
+  "rust-analyzer.procMacro.enable": true,
+  "rust-analyzer.diagnostics.disabled": ["unresolved-import"]
+}
