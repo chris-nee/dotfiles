@@ -128,6 +128,7 @@ let g:rustfmt_autosave = 1
 " color scheme - gruvbox
  colorscheme gruvbox
  let g:gruvbox_invert_selection=0
+ set background=dark
 
 
 let g:rainbox_active = 0
